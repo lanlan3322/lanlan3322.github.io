@@ -1,11 +1,3 @@
-Laurence Zhang
-============
-
--------------------     ----------------------------
-AI,Blockchain,Cloud          laurence@ibs.edu.sg
-Singapore                    @zhanglaurenceSG
--------------------     ----------------------------
-
 **Experience:**
 
 * DACE (WSQ Diploma in Adult and Continuing Education)
