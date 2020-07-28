@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Laurence Zhang
+============
 
-You can use the [editor on GitHub](https://github.com/lanlan3322/lanlan3322.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+-------------------     ----------------------------
+AI,Blockchain,Cloud          laurence@ibs.edu.sg
+Singapore                    @zhanglaurenceSG
+-------------------     ----------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Experience:**
 
-### Markdown
+* DACE (WSQ Diploma in Adult and Continuing Education)
+* ACTA (WSQ Advanced Certificate of Training and Assessment)
+* Blockchain for Business (Professional Certificate - The Linux Foundation)
+* Ambassador (Kleros - Blockchain Dispute Resolution Protocol)
+* AI for Industry (AI Singapore)
+* Machine Learning (Stanford Online)
+* Tourist Guide (Mandarin, STB)
+* Google Cloud & Microsoft Azure Consultant
+* Advanced Translation Certificate (English/Chinese)
+* Software Consultant (Over 20 years of full-stack software development)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lanlan3322/lanlan3322.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* 成人继续教育专业文凭（WSQ DACE）
+* 高级培训评估师 (WSQ ACTA)
+* 区块链商用职业证书 （Linux基金）
+* 区块链项目Kleros新加坡大使（争议裁决协议）
+* 人工智能 （AI 新加坡）
+* 机器学习 （斯坦福在线)
+* 华文导游（新加坡旅游局）
+* 谷歌云和微软云顾问
+* 高级中英文翻译
+* 软件顾问（超过20年全栈软件开发经验）
