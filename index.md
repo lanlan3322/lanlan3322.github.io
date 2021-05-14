@@ -1,5 +1,4 @@
-Director of Blockchain and Technology
-(Institute of Blockchain® Ltd)
+Director of Blockchain and Technology (Institute of Blockchain® Ltd)<br>
 技术总监 （区块链技术学院®）
 
 **Experience:**
