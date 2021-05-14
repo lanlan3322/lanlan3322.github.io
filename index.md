@@ -1,3 +1,6 @@
+Director of Blockchain and Technology
+(Institute of Blockchain® Ltd)
+
 **Experience:**
 
 * DACE (WSQ Diploma in Adult and Continuing Education)
