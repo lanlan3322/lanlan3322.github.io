@@ -1,6 +1,10 @@
 Director of Blockchain and Technology (Institute of Blockchain® Ltd)<br>
 技术总监 （区块链技术学院®）
 
+* More than 20 years solid working experiences in computer science industry.
+* Professional in cutting-edge technologies such as cloud, blockchain,AR and AI.
+* Multi-cultural team leader with management skills on international projects.
+
 **Experience:**
 
 * DACE (WSQ Diploma in Adult and Continuing Education)
