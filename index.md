@@ -1,5 +1,5 @@
 Director of Blockchain and Technology (Institute of Blockchain® Ltd)<br>
-技术总监 （区块链技术学院®）
+技术总监 （区块链技术学院®）<br>
 Kleros Ambassador (Kleros - Blockchain Dispute Resolution Protocol)<br>
 Kleros大使（Kleros区块链争议裁决协议）
 
